@@ -1,0 +1,24 @@
+{
+  "name": "improbable-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettdewoody/improbable-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brettdewoody/improbable-testing/issues"
+  },
+  "homepage": "https://github.com/brettdewoody/improbable-testing#readme",
+  "dependencies": {
+    "codeceptjs": "^0.3.5",
+    "selenium-webdriver": "^2.53.3",
+    "webdriverio": "^4.1.1"
+  }
+}
